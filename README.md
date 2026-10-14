@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://pypi.org/project/godotbridge/"><img src="https://img.shields.io/pypi/v/godotbridge?label=PyPI&color=blue" alt="PyPI version"></a>
   <a href="https://godotengine.org/asset-library/asset"><img src="https://img.shields.io/badge/Godot-Asset%20Library-blue?logo=godot-engine" alt="Godot Asset Library"></a>
-  <a href="https://godotbridge.dev"><img src="https://img.shields.io/badge/web-godotbridge.dev-blue" alt="Website"></a>
+  <a href="https://godotbridge.com"><img src="https://img.shields.io/badge/web-godotbridge.com-blue" alt="Website"></a>
 </p>
 
 ---
@@ -69,7 +69,7 @@ Your running game (runtime probe)
 
 ## Links
 
-- [Website](https://godotbridge.dev) — features, pricing, docs
+- [Website](https://godotbridge.com) — features, pricing, docs
 - [PyPI](https://pypi.org/project/godotbridge/) — `pip install godotbridge`
 - [Godot Addon](https://github.com/godotbridge/addon) — editor plugin source
 - [Releases](https://github.com/godotbridge/releases) — changelog and downloads
